@@ -32,6 +32,12 @@
         padding: 9.375rem 0 9.375rem;
     }
 
+    /* carousel design */
+    .testimonial-section .carousel-item .carousel-caption p{
+        padding: 0;
+    }
+
+
 }
 
 
@@ -59,4 +65,42 @@
         padding: 3rem 0;
     }
 
+    /* carousel design */
+    .testimonial-section .carousel-item{
+        padding: 11rem 3.125rem;
+    }
+
+    /* newsletter */
+
+    .newsletter{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .newsletter-form{
+        width: 75%;
+    }
+
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    /* footer link */
+    .footer .footer-link,
+    .footer a i{
+        padding: 0 0.7rem;
+    }
+
+
+}
+
+
+@media (max-width : 330px){
+
+    /* carousel design */
+    .testimonial-section .carousel-item{
+        padding: 13rem 3.125rem;
+    }
+    
 }
