@@ -67,23 +67,7 @@
 
     /* carousel design */
     .testimonial-section .carousel-item{
-        padding: 11rem 3.125rem;
-    }
-
-    /* newsletter */
-
-    .newsletter{
-        width: 100%;
-        margin: 0 auto;
-    }
-
-    .newsletter-form{
-        width: 75%;
-    }
-
-    .newsletter .main-btn{
-        width: 100%;
-        margin-top: 1rem;
+        padding: rem 3.125rem;
     }
 
     /* footer link */
@@ -98,9 +82,5 @@
 
 @media (max-width : 330px){
 
-    /* carousel design */
-    .testimonial-section .carousel-item{
-        padding: 13rem 3.125rem;
-    }
     
 }
